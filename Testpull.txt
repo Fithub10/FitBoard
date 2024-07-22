@@ -1,0 +1,1 @@
+Comandos de git para descargar de web a pc no de pc a web
